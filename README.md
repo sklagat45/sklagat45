@@ -1,7 +1,6 @@
 ![Banner Image](https://media.giphy.com/media/Rj08TteAOHGiDNnNjo/giphy.gif?raw=true "Banner Image")
 
-### <img alt="handwavegif" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width='90' align="left"/>
-### <img alt="handwavegif" src="https://media.giphy.com/media/cnzou4ydGM7GJZ7VTz/giphy.gif" width='90' align="left"/>
+### <img alt="handwavegif" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width='100' align="left"/>
 
  
 Hello, It's Kiplagat !
