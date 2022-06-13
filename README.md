@@ -1,7 +1,8 @@
-![Banner Image](Banner.png?raw=true "Banner Image")
+![Banner Image](https://media.giphy.com/media/Rj08TteAOHGiDNnNjo/giphy.gif?raw=true "Banner Image")
 
 ### <img alt="handwavegif" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width='90' align="left"/>
-###<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/cnzou4ydGM7GJZ7VTz" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Siemens--iot-analyze-mindsphere-cnzou4ydGM7GJZ7VTz">via GIPHY</a></p>
+### <img alt="handwavegif" src="https://media.giphy.com/media/cnzou4ydGM7GJZ7VTz/giphy.gif" width='90' align="left"/>
+
  
 Hello, It's Kiplagat !
 \
