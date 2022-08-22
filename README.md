@@ -12,7 +12,7 @@ I just love coding, I'm passionate in building and delivering products that not 
 \
 ![version :16.07.2021](https://img.shields.io/badge/version-16.07.2018-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=sklagat45&color=red)&nbsp;
-[![GitHub waWanjohi](https://img.shields.io/github/followers/Sklagat45?label=follow&style=social)](https://github.com/sklagat45)&nbsp;
+[![GitHub sklagat45](https://img.shields.io/github/followers/Sklagat45?label=follow&style=social)](https://github.com/sklagat45)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
 
