@@ -2,13 +2,14 @@
 ### <img alt="handwavegif" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width='100' align="left"/>
 
  
-Hey, It's Kiplagat !
-\
-I am a Software developer, Android Developer. 
-\
-I just love coding, I'm passionate in building and delivering products that not only work smoothly but also look and feels great. I enjoy learning about users and innovating ideas that makes their lives easier. I have delivered value through solutions design and system implementation
+  Hey, It's Kiplagat !
+  \
+  I am a Software developer, Android Developer. 
+  \
+  I just love coding, I'm passionate in building and delivering products that not only work smoothly but also look and feels great. I enjoy learning about users and innovating ideas 
+  that makes their lives easier. I have delivered value through solutions design and system implementation
 
-\
+  \
 ![version :16.07.2021](https://img.shields.io/badge/version-16.07.2018-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=sklagat45&color=red)&nbsp;
 [![GitHub sklagat45](https://img.shields.io/github/followers/Sklagat45?label=follow&style=social)](https://github.com/sklagat45)&nbsp;
