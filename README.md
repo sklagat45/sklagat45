@@ -1,7 +1,4 @@
 
-### <img alt="handwavegif" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width='100' align="left"/>
-
- 
   Hey, It's Kiplagat !
   \
   I am a Software developer, Android Developer. 
