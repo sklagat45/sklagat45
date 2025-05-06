@@ -1,7 +1,7 @@
 
   Hey, It's Kiplagat !
   \
-  I am a Software developer, Android Developer. 
+  I am a Software Engineer, Mobile (Kotlin,Java,Flutter) and Backend (Springboot). 
   \
   I just love coding, I'm passionate in building and delivering products that not only work smoothly but also look and feels great. I enjoy learning about users and innovating ideas 
   that makes their lives easier. I have delivered value through solutions design and system implementation
